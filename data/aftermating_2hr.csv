@@ -1,0 +1,29 @@
+﻿cross_ID,female_type,female_pop,male_pop,female_line,male_line,cross_type,species,control_type,collect_virgins,set_up_date,set_up_time,mate_start,mate_end,dissect,eu_live,eu_dead,eu_total,para_live,para_dead,para_total,prop_live_eu,prop_live_para
+1,Allopatric,Lamoille,Lamoille,LCMS2-5,LCMS2-5,L_con,Conspecific,after_mating,10-Dec,17-Dec,4:34,4:35,4:44,4:46,51,14,65,15,25,40,0.784615385,0.375
+2,Sympatric,Mt St Helena,Mt St Helena,MSH68,MSH68,M_con,Conspecific,after_mating,15-Oct,22-Oct,1:24,1:38,1:43,1:46,49,15,64,20,56,76,0.765625,0.263157895
+3,Sympatric,Mt St Helena,Mt St Helena,MSH68,MSH3sh,M_het,Heterospecific,after_mating,15-Oct,22-Oct,2:15,2:20,2:28,2:30,30,19,49,5,36,41,0.612244898,0.12195122
+4,Allopatric,Lamoille,Lamoille,LCMS2-5,MSH3sh,L_het,Heterospecific,after_mating,11-Dec,18-Dec,11:12,11:15,11:22,11:24,9,3,12,8,20,28,0.75,0.285714286
+5,Allopatric,Lamoille,Lamoille,LCMS2-5,LCMS2-5,L_con,Conspecific,after_mating,10-Dec,17-Dec,4:34,4:36,4:44,4:49,53,20,73,39,55,94,0.726027397,0.414893617
+6,Allopatric,Lamoille,Lamoille,LCMS2-5,MSH3sh,L_het,Heterospecific,after_mating,11-Dec,18-Dec,11:11,11:20,11:30,11:32,13,6,19,18,24,42,0.684210526,0.428571429
+7,Sympatric,Mt St Helena,Mt St Helena,MSH68,MSH68,M_con,Conspecific,after_mating,15-Oct,22-Oct,1:35,1:38,1:42,1:44,49,7,56,17,30,47,0.875,0.361702128
+8,Sympatric,Mt St Helena,Mt St Helena,MSH68,MSH3sh,M_het,Heterospecific,after_mating,15-Oct,22-Oct,2:15,2:25,2:30,2:32,18,6,24,5,41,46,0.75,0.108695652
+9,Allopatric,Lamoille,Lamoille,LCMS2-5,LCMS2-5,L_con,Conspecific,after_mating,10-Dec,17-Dec,4:34,4:36,4:47,4:53,45,13,58,27,47,74,0.775862069,0.364864865
+10,Allopatric,Lamoille,Lamoille,LCMS2-5,MSH3sh,L_het,Heterospecific,after_mating,11-Dec,18-Dec,11:13,11:24,11:35,11:37,23,14,37,7,28,35,0.621621622,0.2
+11,Sympatric,Mt St Helena,Mt St Helena,MSH68,MSH68,M_con,Conspecific,after_mating,11-Dec,18-Dec,2:12,2:13,2:18,2:22,23,6,29,11,13,24,0.793103448,0.458333333
+12,Sympatric,Mt St Helena,Mt St Helena,MSH68,MSH3sh,M_het,Heterospecific,after_mating,11-Dec,18-Dec,2:08,2:12,2:17,2:19,36,12,48,11,48,59,0.75,0.186440678
+98,Sympatric,Mt St Helena,Mt St Helena,MSH68,MSH3sh,M_het,Heterospecific,2hr,20-Mar,27-Mar,11:47,11:50,11:55,11:57,43,25,68,27,65,92,0.632352941,0.293478261
+100,Allopatric,Lamoille,Mt St Helena,LCMS2-5,MSH3sh,L_het,Heterospecific,2hr,3-May,10-May,2:04,2:06,2:11,2:13,20,15,35,2,27,29,0.571428571,0.068965517
+105,Allopatric,Lamoille,Mt St Helena,LCMS2-5,MSH3sh,L_het,Heterospecific,2hr,23-Jul,30-Jul,11:30,11:34,11:44,11:46,18,6,24,4,30,34,0.75,0.117647059
+108,Sympatric,Mt St Helena,Mt St Helena,MSH68,MSH3sh,M_het,Heterospecific,2hr,17-Jul,24-Jul,12:01,12:06,12:12,12:14,38,19,57,3,18,21,0.666666667,0.142857143
+114,Allopatric,Lamoille,Mt St Helena,LCMS2-5,MSH3sh,L_het,Heterospecific,2hr,15-May,22-May,1:26,1:30,1:37,1:39,8,7,15,3,31,34,0.533333333,0.088235294
+116,Sympatric,Mt St Helena,Mt St Helena,MSH68,MSH3sh,M_het,Heterospecific,2hr,15-May,22-May,2:35,3:39,3:44,3:46,37,6,43,25,33,58,0.860465116,0.431034483
+121,Allopatric,Lamoille,Mt St Helena,LCMS2-5,MSH3sh,L_het,Heterospecific,2hr,9-Jul,16-Jul,10:50,10:54,10:58,11:00,7,6,13,3,27,30,0.538461538,0.1
+123,Sympatric,Mt St Helena,Mt St Helena,MSH68,MSH3sh,M_het,Heterospecific,2hr,7-Aug,14-Aug,2:01,2:02,2:07,2:09,11,9,20,2,23,25,0.55,0.08
+129,Sympatric,Mt St Helena,Mt St Helena,MSH68,MSH68,M_con,Conspecific,2hr,6-Aug,13-Aug,1:30,1:31,1:38,1:40,42,10,52,13,16,29,0.807692308,0.448275862
+130,Allopatric,Lamoille,Lamoille,LCMS2-5,LCMS2-5,L_con,Conspecific,2hr,6-Aug,13-Aug,1:45,1:46,1:57,1:59,38,14,52,9,65,74,0.730769231,0.121621622
+137,Sympatric,Mt St Helena,Mt St Helena,MSH68,MSH68,M_con,Conspecific,2hr,3-Sep,10-Sep,10:49,10:53,10:58,11:00,13,7,20,10,18,28,0.65,0.357142857
+138,Allopatric,Lamoille,Lamoille,LCMS2-5,LCMS2-5,L_con,Conspecific,2hr,3-Sep,10-Sep,10:54,10:54,11:01,11:03,21,24,45,2,34,36,0.466666667,0.055555556
+145,Allopatric,Lamoille,Lamoille,LCMS2-5,LCMS2-5,L_con,Conspecific,2hr,28-Aug,4-Sep,11:22,11:22,11:32,11:34,21,16,37,2,28,30,0.567567568,0.066666667
+146,Sympatric,Mt St Helena,Mt St Helena,MSH68,MSH68,M_con,Conspecific,2hr,28-Aug,4-Sep,11:23,11:24,11:30,11:32,10,11,21,2,12,14,0.476190476,0.142857143
+153,Sympatric,Mt St Helena,Mt St Helena,MSH68,MSH68,M_con,Conspecific,2hr,10-Sep,17-Sep,10:34,10:34,10:38,10:40,8,5,13,4,26,30,0.615384615,0.133333333
+155,Allopatric,Lamoille,Lamoille,LCMS2-5,LCMS2-5,L_con,Conspecific,2hr,10-Sep,17-Sep,10:35,10:36,10:43,10:45,19,9,28,5,24,29,0.678571429,0.172413793
