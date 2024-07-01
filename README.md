@@ -1,9 +1,8 @@
 # CSPMechanisms
-Data and code for Peckenpaugh, Castillo, &amp; Moyle 2021, "Testing potential mechanisms of conspecific sperm precedence in Drosophila pseudoobscura"
-
-https://doi.org/10.1111/jeb.13946
 
 <i>Drosophila pseudoobscura</i> females that co-occur with sister species <i>D. persimilis</i> show elevated fertilization by conspecific sperm when they mate with both a heterospecific and a conspecific male. This phenomenon, known as conspecific sperm precedence (CSP), has evolved as a mechanism to avoid maladaptive hybridization with <i>D. persimilis</i>. In this study, we assessed pericopulatory (during mating) and postcopulatory (after mating) traits in crosses with sympatric or allopatric <i>D. pseudoobscura</i> females and conspecific or heterospecific males to evaluate potential mechanisms of CSP in this system.
+
+https://doi.org/10.1111/jeb.13946
 
 ## Data
 
